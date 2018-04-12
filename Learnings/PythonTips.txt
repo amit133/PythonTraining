@@ -1,0 +1,14 @@
+## load a module
+import(mymodule): load a module
+
+## Reload a module in python 3
+import importlib
+importlib.reload(mymodule)
+
+## assert statements.
+## If the condition is false, the assert executes and program terminates
+## So make sure that the condition is true for a successfully running program
+assert condition
+
+## Generate a random number
+https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
