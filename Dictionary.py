@@ -29,3 +29,9 @@ print(phonebook)
 # Change the phone number of 'amiya'. Replace the value at index 'amiya'
 phonebook['amiya'] = 23234332423423
 print(phonebook)
+
+
+print(str(phonebook))
+
+# list of key:value pairs
+print("list of key-value pairs: ",phonebook.items())
